@@ -8,15 +8,15 @@ const MyProjects = () => {
       img: "images/Figma-img.jpg",
       FigmaURL:
         "https://www.figma.com/proto/n63W4IGj7kh6wk3Q8cv918/Untitled?page-id=0%3A1&node-id=1-24&starting-point-node-id=1%3A24&t=jUGKApygm0yq20ob-1",
-      projectTitle: "Random",
-      projectType: "UI Design",
+      projectTitle: "Extreme Cycle Design",
+      projectType: "App UI Design",
     },
     {
-      img: "images/Figma-img.jpg",
+      img: "images/safari.jpg",
       FigmaURL:
-        "https://www.figma.com/proto/n63W4IGj7kh6wk3Q8cv918/Untitled?page-id=0%3A1&node-id=1-24&starting-point-node-id=1%3A24&t=jUGKApygm0yq20ob-1",
-      projectTitle: "Random",
-      projectType: "UI Design",
+        "https://www.figma.com/proto/eY3wXEXEndfLymmzZpgj7P/Untitled?page-id=0%3A1&node-id=8-565&starting-point-node-id=8%3A565&t=6r38K7EKYR0Arheh-1",
+      projectTitle: "Tata Car Design",
+      projectType: "Web UI Design",
     },
     {
       img: "images/Figma-img.jpg",
