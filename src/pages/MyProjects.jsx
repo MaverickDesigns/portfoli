@@ -5,9 +5,9 @@ import "./MyProjects.css";
 const MyProjects = () => {
   const projectArray = [
     {
-      img: "images/Figma-img.jpg",
+      img: "images/extreame.jpg",
       FigmaURL:
-        "https://www.figma.com/proto/n63W4IGj7kh6wk3Q8cv918/Untitled?page-id=0%3A1&node-id=1-24&starting-point-node-id=1%3A24&t=jUGKApygm0yq20ob-1",
+        "https://www.figma.com/proto/n63W4IGj7kh6wk3Q8cv918/Untitled?page-id=0%3A1&node-id=1-24&node-type=FRAME&viewport=448%2C-100%2C0.19&t=z4utrWICjSXbNU0z-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A24&show-proto-sidebar=1",
       projectTitle: "Extreme Cycle Design",
       projectType: "App UI Design",
     },
@@ -19,23 +19,9 @@ const MyProjects = () => {
       projectType: "Web UI Design",
     },
     {
-      img: "images/Figma-img.jpg",
+      img: "images/Fruti.jpg",
       FigmaURL:
-        "https://www.figma.com/proto/n63W4IGj7kh6wk3Q8cv918/Untitled?page-id=0%3A1&node-id=1-24&starting-point-node-id=1%3A24&t=jUGKApygm0yq20ob-1",
-      projectTitle: "Random",
-      projectType: "UI Design",
-    },
-    {
-      img: "images/Figma-img.jpg",
-      FigmaURL:
-        "https://www.figma.com/proto/n63W4IGj7kh6wk3Q8cv918/Untitled?page-id=0%3A1&node-id=1-24&starting-point-node-id=1%3A24&t=jUGKApygm0yq20ob-1",
-      projectTitle: "Random",
-      projectType: "UI Design",
-    },
-    {
-      img: "images/Figma-img.jpg",
-      FigmaURL:
-        "https://www.figma.com/proto/n63W4IGj7kh6wk3Q8cv918/Untitled?page-id=0%3A1&node-id=1-24&starting-point-node-id=1%3A24&t=jUGKApygm0yq20ob-1",
+        "https://www.figma.com/proto/jnc84Y9xciPfiZiWNPIcfg/Fruity-Fizz?page-id=0%3A1&node-id=41-88&scaling=contain&content-scaling=fixed&t=xHNkyixOKYxHC5H0-1",
       projectTitle: "Random",
       projectType: "UI Design",
     },
